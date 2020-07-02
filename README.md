@@ -25,6 +25,10 @@ Download your computer<br>
 composer update
 </pre>
 Than Run
-<br>
+<br><br>
+
+<h4>You can send PR</h4>
+Thank you for your support (:
+<br><br>
 
 Good Luck :)
