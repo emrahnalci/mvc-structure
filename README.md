@@ -22,5 +22,11 @@ Packages;
 }
 
 <hr>
+<pre>
+Download your computer<br>
+composer update
+</pre>
+Than Run
+
 
 Good Luck :)
