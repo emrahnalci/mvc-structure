@@ -1,0 +1,11 @@
+#php_flag register_globals OFF
+#php_flag display_errors on
+
+Options +FollowSymLinks
+RewriteEngine On
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
