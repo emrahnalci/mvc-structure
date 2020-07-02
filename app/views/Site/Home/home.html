@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+
+
+{% for i in range(0, 3) %}
+{{ i }},
+{% endfor %}
+
+<hr>
+
+{{ textA }}
+<hr>
+
+{{ "now"|date(null, "Europe/Paris") }}
+
+<hr>
+
+{% for i in range(low=1, high=20, step=2) %}
+{{ i }},
+{% endfor %}
+
+
+</body>
+</html>
