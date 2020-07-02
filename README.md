@@ -1,6 +1,4 @@
 # MVC
-=======
-# mvc
 PHP OOP MVC
 For medium level developers
 
