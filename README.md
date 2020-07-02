@@ -27,7 +27,7 @@ composer update
 Than Run
 <br><br>
 
-<h4>You can send PR</h4>
+<h2>You can send PR (Pull requests)</h2>
 Thank you for your support (:
 <br><br>
 
