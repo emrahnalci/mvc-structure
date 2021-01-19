@@ -1,6 +1,6 @@
 {
     "require": {
-        "illuminate/database": "^5.2",
+        "illuminate/database": "^6.20",
         "filp/whoops": "^2.7",
         "twig/twig": "^3.0"
     },
