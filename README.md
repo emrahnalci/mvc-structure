@@ -6,7 +6,7 @@ For medium level developers
 
 Packages;
 <ul>
-<li>"illuminate/database": "^5.2",</li>
+<li>"illuminate/database": "^6.20",</li>
 <li>"filp/whoops": "^2.7",</li>
 <li>"twig/twig": "^3.0"</li>
 </ul>
